@@ -20,7 +20,6 @@ Evaluasi dilakukan dengan metrik **PSNR, SSIM, RMSE** untuk kualitas gambar dan 
 - Verifikasi instalasi:
   ```bash
   python --version
-````
 
 ### 2. Install Tesseract OCR
 
